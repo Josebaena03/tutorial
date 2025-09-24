@@ -5,4 +5,8 @@ public class tutorial {
 		System.out.print("Hola");
 		System.out.println("Este es un saludo especial desde la rama feature/saludo-especial.");
 	}
+	
+	 public static void despedirse() {
+	        System.out.println("¡Adiós!");
+	 }
 }
