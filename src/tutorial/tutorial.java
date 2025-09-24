@@ -8,6 +8,7 @@ public class tutorial {
 	}
 	
 	 public static void despedirse() {
-	        System.out.println("¡Adiós!");
+		 System.out.println("¡Hasta la próxima, desde una idea experimental!");
 	 }
+	 
 }
